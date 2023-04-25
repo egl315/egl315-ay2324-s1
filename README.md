@@ -19,3 +19,6 @@ I am at Nanyang Polytechnic
 Block S
 Room 540
 ```
+
+### Code Line
+`sudo raspi-config`
